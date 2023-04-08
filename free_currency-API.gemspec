@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "free_currency-API"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["João Oliveira"]
   spec.email         = ["joao.oliveira@hole19golf.com"]
 
